@@ -1,0 +1,34 @@
+{
+  "samples": [
+    {
+      "templateCode": "b0",
+      "prompts": [
+        "I want a calm and comfortable area for napping.",
+        "I'd like a room where I can relax and have fun.",
+        "Something small and not too large, but comfortable.",
+        "I would like a place I can rest all day.",
+        "I want a hybrid between a bedroom and living room"
+      ]
+    },
+    {
+      "templateCode": "l0",
+      "prompts": [
+        "A small yet modern and colorful space.",
+        "I want a spacious room to express myself.",
+        "I'd like to be in a small and personalized room.",
+        "A contemporary design where I can cutomize to my liking.",
+        "I want the living room to be the center of a modern design."
+      ]
+    },
+    {
+      "templateCode": "k0",
+      "prompts": [
+        "A modern design with a contrasting color palette.",
+        "I'd like to have a small but functional cooking area.",
+        "I want something humble, calm, and white.",
+        "Simple but modern and works well in an apartment.",
+        "Something simple and compact, but highly functional."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "samples": [
+    {
+      "templateCode": "b0",
+      "prompts": [
+        "I want a calm and comfortable area for napping.",
+        "I'd like a room where I can relax and have fun.",
+        "Something small and not too large, but comfortable.",
+        "I would like a place I can rest all day.",
+        "I want a hybrid between a bedroom and living room"
+      ]
+    },
+    {
+      "templateCode": "l0",
+      "prompts": [
+        "A small yet modern and colorful space.",
+        "I want a spacious room to express myself.",
+        "I'd like to be in a small and personalized room.",
+        "A contemporary design where I can cutomize to my liking.",
+        "I want the living room to be the center of a modern design."
+      ]
+    },
+    {
+      "templateCode": "k0",
+      "prompts": [
+        "A modern design with a contrasting color palette.",
+        "I'd like to have a small but functional cooking area.",
+        "I want something humble, calm, and white.",
+        "Simple but modern and works well in an apartment.",
+        "Something simple and compact, but highly functional."
+      ]
+    },
+    {
+      "templateCode": "o0",
+      "prompts": [
+        "A colorful home workplace where I can have fun productivity.",
+        "I want a dedicated room for productive work.",
+        "I'd like to make a small yet functional office space.",
+        "An apartment for both working and relaxing.",
+        "A personalized workspace that is pretty and purposeful."
+      ]
+    },
+    {
+      "templateCode": "r0",
+      "prompts": [
+        "A relaxing environment where I can relieve my stress.",
+        "Something small but comfortable and modern.",
+        "I'd like to use some natural wood material with traditional ceramic.",
+        "I want large and compact storage spaces.",
+        "A simple design that goes well in a small apartment bathroom."
+      ]
+    },
+    {
+      "templateCode": "c0",
+      "prompts": [
+        "A fun, colorful, and relaxing space for kids and parents.",
+        "A safe space for toddlers and little children to play in.",
+        "I would like to have a modern style room for my child.",
+        "I'd want a playful, safe, and private place for my kids.",
+        "An interactive room where parents can play with their child."
+      ]
+    },
+    {
+      "templateCode": "d0",
+      "prompts": [
+        "An older, traditional dining room with mostly wooden furniture.",
+        "A relaxing area to casually eat food and have conversations.",
+        "I want some soft colors that mix with an older looking design.",
+        "I'd like to create a multi-purpose dining and living room.",
+        "A traditional design that has a modern touch and charm."
+      ]
+    },
+    {
+      "templateCode": "u0",
+      "prompts": [
+        "A calm and peaceful area to hang around friends and family.",
+        "I want an ideal location to start a thriving garden.",
+        "Simple backyard design that does not need much maintanence.",
+        "A mesmerizing environment where I will lose track of time.",
+        "A place to take a break and enjoy the small things in life."
+      ]
+    },
+    {
+      "templateCode": "h0",
+      "prompts": [
+        "A small but comfortable and welcoming household.",
+        "I want a simple traditional design for a small house.",
+        "I'd like to see my whole family comfortably living there.",
+        "A simple but functional area with good storage space.",
+        "I want to see some more naturalistic materials."
+      ]
+    },
+    {
+      "templateCode": "b3",
+      "prompts": [
+        "Something modern but welcoming and relaxing.",
+        "I need a place where I can unwind from a busy day.",
+        "I prefer room colors that are more monotone and mute.",
+        "A minimalistic style with an amazing view of the outside.",
+        "I'd like a bed that will distract me from everyday life."
+      ]
+    },
+    {
+      "templateCode": "l3",
+      "prompts": [
+        "A multi-functional room where my family can be productive and have fun.",
+        "I'd like a calm and relaxing living space that is also stylish.",
+        "I want a comfortable room that is clever about its storage space.",
+        "A family friendly space where everyone feels comfortable.",
+        "I prefer a simplistic design that has thoughtful little details."
+      ]
+    },
+    {
+      "templateCode": "k3",
+      "prompts": [
+        "A space efficient area that adds a lot of cooking functionality.",
+        "I need something small but sufficient for cooking and hosting.",
+        "A room that maximizes my utility for the smallest amount of space.",
+        "I would like to be able to serve dinner for friends and family.",
+        "Simple design that fits well into a tight apartment space."
+      ]
+    },
+    {
+      "templateCode": "o3",
+      "prompts": [
+        "A multi-purpose room for productivity and online gaming.",
+        "I would like to make a flexible video streaming space.",
+        "I want a perfect online streaming room with built-in privacy function.",
+        "A peaceful area for working while capable of playing games online.",
+        "Blend of both serious work and fun relaxing online gaming."
+      ]
+    },
+    {
+      "templateCode": "r3",
+      "prompts": [
+        "I want a bathroom where I can also do my laundry.",
+        "A small, compact room that serves as both a restroom and laundry.",
+        "I'd like to maximize the bathroom space with other functions.",
+        "I prefer to have my laundry room in the same place as the bathroom.",
+        "A clever design that incorporates both laundry and toilet."
+      ]
+    },
+    {
+      "templateCode": "c3",
+      "prompts": [
+        "An imagination wonderland for my child to explore.",
+        "I want a spacious room for my child to have fun and play with friends.",
+        "I prefer a simple and comfortable room for my child.",
+        "A traditional style that matches the rest of the home.",
+        "I'd like a creative design that encourages imagination."
+      ]
+    },
+    {
+      "templateCode": "d3",
+      "prompts": [
+        "A multi-purpose room for work and food.",
+        "I need a functional and comfortable room for productivity and family time.",
+        "I prefer a room design emphasizing beautiful style and functionality.",
+        "I'd like a place where I can easily transition from work to dinner.",
+        "The go to place for family to work and eat food together."
+      ]
+    },
+    {
+      "templateCode": "u3",
+      "prompts": [
+        "A tranquil environment that drowns out the busy large city.",
+        "I'd like to add some small greenery in the surrounding room.",
+        "I prefer to be connected to nature in this room.",
+        "A nature inspired style that fits neatly into a small apartment balcony.",
+        "A peaceful outdoor area that is isolated from the busy city."
+      ]
+    },
+    {
+      "templateCode": "h0",
+      "prompts": [
+        "Small yet compact hallway that contains lots of storage space.",
+        "I want to create a traditional looking hallway.",
+        "I prefer an area that has some thought put into the details.",
+        "An appealing tradtional design that also provides ample storage.",
+        "A small and simple hallway design that has a loveable charm to it."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,456 @@
+{
+  "bedroom": [
+    {
+      "code": "b0",
+      "description": "a flexible living area with space for sleep and relaxation. it may be small but there's space here for comfort, 24 hours a day. flexible ideas like this day-bed make it super easy to transform this living area into a bedroom. and a few well-selected items create a cozy, harmonious atmosphere, day and night."
+    },
+    {
+      "code": "b1",
+      "description": "a modern space full of calming bedroom ideas. welcome to a small, modern-style bedroom with clean, simple lines and beautiful empty spaces. sleek, organized storage makes sure there's no clutter and helps create a calm place to recharge. and you can set the mood in an instant, since much of the lighting and smart products are controlled from the ikea home smart app on your phone."
+    },
+    {
+      "code": "b2",
+      "description": "a light, airy bedroom that's an oasis of calm. a large, traditional-style bed surrounded by ethereal sheer white curtains in the middle of the room is the starting statement of this bedroom. a celebration of the owners' personalities, it sets the scene for modern romance with unexpected twists."
+    },
+    {
+      "code": "b3",
+      "description": "a feel-good modern bedroom where dreams are hatched. with its light, modern style, this room is a hub for a busy life , a space to rest, reset and relax in, before the next adventure. placing the bed facing the window creates a cozy hideaway with a great view, enhanced by muted colors, soft textures , and handy drawers that help the room stay calm and clutter-free."
+    },
+    {
+      "code": "b4",
+      "description": "your sustainable bedroom with timeless style. well-designed pieces of furniture in classic colors help to keep a space organized and will stick around as your style evolves. so when your bedroom look changes, your furniture doesn't have to. better for your wallet, and the planet."
+    },
+    {
+      "code": "b5",
+      "description": "your small, calm and organized bedroom. it seems like a lot to ask, but clever use of storage furniture, color and textiles can help you create a sleep haven with space for all your things (and a little workspace too)."
+    },
+    {
+      "code": "b6",
+      "description": "enjoy the best of both worlds in your bedroom. yes, it is possible that working and relaxing can take place in the same room , just not at the same time! start with coordinated furniture with lots of storage, calming colors and thoughtful lighting. then put your desk near the window with a curtain behind it , when you've finished for the day, simply close the curtain to hide your work away."
+    },
+    {
+      "code": "b7",
+      "description": "when your bedroom is also your living room. get inspired with this small studio space that shows how there's always room for comfort, organization and style. with multipurpose furniture and smart storage solutions, your bedroom can easily transform to your living room , a truly flexible and personal space that you can enjoy."
+    },
+    {
+      "code": "b8",
+      "description": "a serene green bedroom. when everything is in its place and your surroundings make you feel good, you can truly rest and get a good night's sleep. featuring relaxing colors, stylish yet functional furniture and cozy textiles, this bedroom is an oasis of calm and comfort."
+    },
+    {
+      "code": "b9",
+      "description": "a cozy guest room and craft room in one. this country style guest room is always ready for friends and family, making them immediately feel at home. it also functions as a hobby and craft room during quieter times. with comfortable textiles, plenty of storage and multipurpose furniture, this is a room with a big welcoming heart."
+    },
+    {
+      "code": "b10",
+      "description": "a bedroom where everything is in its place. here's a small bedroom that proves you don't need a lot of space to be cozy, organized and clutter-free. with clever storage solutions and space-saving furniture, you can have a calm and harmonious bedroom , at a more affordable price."
+    },
+    {
+      "code": "b11",
+      "description": "rest and recharge in style. style or comfort? this bedroom proves that you don't need to choose one over the other. starring a super cozy bed and soft textiles that ensure hours of restful sleep, and a clever dressing area that makes the most of a small space , this bedroom is definitely to dream of."
+    },
+    {
+      "code": "b12",
+      "description": "round-the-clock comfort. turning your bedroom into a living room , or your living room into a bedroom , is easy. you just need a sofa that you can turn into a bed, block-out blinds on your windows and a few other smart ideas."
+    },
+    {
+      "code": "b13",
+      "description": "chic and easily accessible storage solutions. give your clothes the functional and stylish storage they (and you!) deserve, with adaptable and personalized storage solutions to fit all your needs."
+    },
+    {
+      "code": "b14",
+      "description": "a customized wardrobe and smart storage tips. what could be more luxurious than a customized wardrobe that fits your space and needs? the flexible and affordable aurdal wardrobe system lets you create the wardrobe combination you want."
+    }
+  ],
+  "living": [
+    {
+      "code": "l0",
+      "description": "a light, airy living room with space for personality. this modern-style apartment is centered around a living room that makes the most of its limited floor space, with colors and furniture chosen to create a spacious feel with room to express yourself."
+    },
+    {
+      "code": "l1",
+      "description": "a living room with traditional feel and modern glimpses. rooted in a hand-picked, timeless mix of styles, this living room is devoted to drawing people into it and making it easy for them to meet. placement and material choices enhance a feeling of symmetry and calm."
+    },
+    {
+      "code": "l2",
+      "description": "an uplifting 24-hour room for all the family. this bright, sunny room will put a smile on everyone's face throughout the day. flexible, multifunctional furniture helps it move from a productive, social daytime towards a calm, restful night."
+    },
+    {
+      "code": "l3",
+      "description": "a serene and stylish family living room. elegant design, smart storage and thoughtful details create a harmonious space where everyone feels at home. this space gives all of your family enough room to get on with work, study or other daily tasks, without compromising on style."
+    },
+    {
+      "code": "l4",
+      "description": "a living room that works with you. with flexible storage and furniture, this living room can help life run a bit more smoothly , now, and in the future. open and closed shelving behind the sofa keeps all your things nearby, and out of the way, and the generous yet compact sofa gives you plenty of room to relax."
+    },
+    {
+      "code": "l5",
+      "description": "a fresh and fun round-the-clock room. this smart and stylish living room transforms easily into a bedroom, with space for a dining-slash-work area. featuring multipurpose furniture, space-saving solutions and a speaker disguised as artwork , this compact space has everything you need for relaxing, studying and having fun."
+    },
+    {
+      "code": "l6",
+      "description": "a cozy living room for playing and relaxing. this small living room is big on fun, especially for your little ones. with durable furniture, cozy lighting and clever storage, you can create a space where you and your children can enjoy being together."
+    },
+    {
+      "code": "l7",
+      "description": "a living room for unwinding. relax, unwind and do the things you love (or do nothing at all!) in this calm and cozy living room. featuring an ultra-comfortable sofa, clever storage solutions to keep things tidy, and even a mini library , this small space is big on comfort, coziness and style."
+    },
+    {
+      "code": "l8",
+      "description": "a living room for creative adventures. play, draw and write in this inspiring living room that encourages creativity and self-expression. with practical and easy-to-move furniture, fun display cabinets and plenty of storage, this room makes space for you and your children to relax and have fun."
+    },
+    {
+      "code": "l9",
+      "description": "a stylish living room with a calm atmosphere. comfort, self-expression and style meet in this gorgeous living room. tactile materials and neutral colors bring warmth and a cozy feeling to the space, while flexible furniture makes it easy to create a space to work from home."
+    },
+    {
+      "code": "l10",
+      "description": "a room where work and life is in balance. here's a living room where you can relax and work in harmony. with a desk that blends in with your interiors, comfortable furniture, and beautiful storage solutions to keep work-related things when the day is done, you can have a calm and inspiring living room and work spot in one."
+    },
+    {
+      "code": "l11",
+      "description": "a warm and welcoming living room. this living room is full of warmth and hospitality, with comfortable furniture, calm colors and heart-warming decoration. a cozy space to relax, but also a place where friends and family are always welcome. even though it's small, flexible furniture makes it always ready for loved ones dropping in for tea."
+    },
+    {
+      "code": "l12",
+      "description": "sun, surf and smart storage. here's a fresh and vibrant living room where it's always summertime and the living is easy. this small living room proves that there's always space for comfort, organization and style. and spontaneous hangouts. scroll on for smart and stylish ideas for a room where your personality shines."
+    },
+    {
+      "code": "l13",
+      "description": "harmony with hauga series. a furniture series that can be used across your home helps create a calm and coordinated expression. have a look at , and be inspired by , the hauga series that includes everything from tv storage combinations to open and closed wardrobes."
+    },
+    {
+      "code": "l14",
+      "description": "a sophisticated and smart space. a living room may need to meet many different needs, no matter how small it is. here's a place where spacious storage, wireless technology and even space for overnight guests fit, all while an uncluttered style is maintained."
+    },
+    {
+      "code": "l15",
+      "description": "a touch of love is all it takes. sometimes (or very often) you want your home to be as practical as can be. but it doesn't necessarily have to look that way. here's how to optimize your living room space to the fullest while letting the true you shine through. who knew that a flexible sofa-bed could look so good?"
+    },
+    {
+      "code": "l16",
+      "description": "an elegant and relaxing living room for two. comfort and style go hand in hand in this color coordinated living room where ekolsund recliner is the center of attention. it can be adjusted into three positions: sit upright, lean back or lie back for a nap. how do you want to relax today?"
+    },
+    {
+      "code": "l17",
+      "description": "a comfy living room bedroom combo. turning your living room into a bedroom , or your bedroom into a living room , is a simple task when your sofa can turn into a bed, your windows are provided with block-out blinds, and your cabinets can be used for clothes storage."
+    },
+    {
+      "code": "l18",
+      "description": "bright, crisp and so inviting in a living room to create many memories. see how a small living room, thanks to the right storage solutions, still feels airy and inviting. holmsund corner sofa-bed offers hidden storage and room for your overnight guests."
+    },
+    {
+      "code": "l19",
+      "description": "space to spend time in the living room. there's only one you , and only you know what makes you feel at home. show what you love in the living room, and keep the rest cleverly stored out of sight. because home does more than mirror you , it supports you, too."
+    },
+    {
+      "code": "l20",
+      "description": "a calm living room oasis. embrace the small space in your living room. it's possible to get an airy and uncluttered feeling at the same time. hang just a few wall pieces and bring calming colors to the sofa to create the feeling of a wider, open space."
+    },
+    {
+      "code": "l21",
+      "description": "scandinavian, stylish and storage-friendly. creating a neat and coordinated living room, with dedicated storage space for both children and grown-ups, is absolutely doable even if it's a small space."
+    },
+    {
+      "code": "l22",
+      "description": "a modern take on beloved classics. a traditional style with a modern twist , that's the best way to describe this living room where timeless design and classic patterns meet trendy colors and the latest furniture favorites."
+    }
+  ],
+  "kitchen": [
+    {
+      "code": "k0",
+      "description": "a classic, fresh white kitchen for modern city life. this inviting kitchen is ideal for this smaller apartment. clean, compact and functional, it satisfies the needs of life in this modest yet busy urban home environment. contrasting dark wood flooring with the white wood of the fronts and white metro-tiles, we've created a unified style in a kitchen that's cozy, smart and personal."
+    },
+    {
+      "code": "k1",
+      "description": "a calm and organized kitchen gives the home a peaceful vibe. we've crafted a modern look, displaying oak-effect fronts and natural colors creating a calming kitchen solution for this small sized apartment. lots of open storage with space for everything with soft minimalism and matte color scheme, enhanced by the matte finishes on the walls and floor to generate a peaceful, unified atmosphere."
+    },
+    {
+      "code": "k2",
+      "description": "a kitchen for the whole family. when your kitchen is the bustling heart of your home, it helps when it accommodates the needs of all your family. check out this kitchen that combines smart features and inviting furniture so everyone can cook, eat and relax together.\nsektion/enk\u00f6ping kitchen cabinet combination\nprice $1,786 for a standard 10'x10' layout*"
+    },
+    {
+      "code": "k3",
+      "description": "a compact kitchen that fits into your life. need to make the most of a small kitchen area? from brunch for two to a feast with friends, this small but perfectly formed kitchen has everything you need to help you live life to the fullest."
+    },
+    {
+      "code": "k4",
+      "description": "a perfectly organized homey kitchen. warm and inviting, this kitchen is the place where everyone wants to be, which is why it's easy to organize. check out our smart ideas for keeping kitchen things sorted and out of the way , or displayed with style.\nsektion/vedhamn kitchen cabinet combination, oak\nprice $3,314 for a standard 10'x10' layout*"
+    },
+    {
+      "code": "k5",
+      "description": "a sleek kitchen with lasting style. the fresh, modern lines of this kitchen are balanced with glossy turquoise fronts for an uplifting, light-filled space. combine flexible cabinets, clever storage and efficient lighting to create your perfect kitchen flow.\nsektion/ringhult white kitchen cabinet combination\nprice $3,073 for a standard 10'x10' layout*"
+    },
+    {
+      "code": "k6",
+      "description": "a minimalist kitchen with a love for bamboo. here's a modern kitchen with sleek black and wooden details and a sustainable touch. with clever organization, space-saving storage and coordinated furniture, you can have a hard-working kitchen that looks beautiful too."
+    },
+    {
+      "code": "k7",
+      "description": "when sustainability is a top priority. a sustainable choice and stylish, long-lasting design , our sleek fr\u00f6jered kitchen fronts in bamboo bring nature into the kitchen while the integrated handles enhance your kitchen's clean lines and give an open, modern look."
+    },
+    {
+      "code": "k8",
+      "description": "sugar, spice and everything nicely organized. love baking? this traditional kitchen has plenty of handy features that make baking fun for you and your children too. with clever storage, wall organizers and bakeware, you're all set to mix, bake and decorate together."
+    },
+    {
+      "code": "k9",
+      "description": "a sleek and modern kitchen for memorable gatherings. you'll love inviting friends over with this minimalist kitchen. featuring high-quality, crafted wooden details, dark hues and sleek storage solutions, this kitchen keeps the conversation going until the last bite of dessert.\nsektion/sinarp walnut kitchen cabinet combination\nprice $2,733 for a standard 10'x10' layout*"
+    },
+    {
+      "code": "k10",
+      "description": "big storage opportunities for your big kitchen. extend your kitchen's storage and counter space in an instant with the vadholma kitchen island. it offers multiple possibilities with an extra countertop to prep meals, an extra dining spot to do homework or socialize, and room to keep kitchen essentials up top and underneath.\nlerhyttan cabinet fronts, black stained\nprice $2,897 for a standard 10'x10' layout*"
+    },
+    {
+      "code": "k11",
+      "description": "the cozy customized kitchen. embrace the odd architecture of your kitchen. that's what this family did when installing their cabinets. get inspired to work around what you already have, and create a kitchen that's unique to you.\nsektion/bodbyn white kitchen cabinet combination\nprice $2,579 for a standard 10'x10' layout*"
+    },
+    {
+      "code": "k12",
+      "description": "a light loft kitchen that blends in. if you want your kitchen to blend in and become one with your living space, use neutral cabinet doors , they're the perfect backdrop for letting other things pop out and get all the attention. host a potluck, or even your own workshop!\nsektion/veddinge white kitchen cabinet combination\nprice $1,682 for a standard 10'x10' layout*"
+    },
+    {
+      "code": "k13",
+      "description": "the little farmhouse kitchen. brightly colored pickles carefully dated and lined up; a freshly baked loaf of sourdough bread soon to be sliced; around the corner, a few scalloped dishes waiting to be washed - all signs that while on the smaller side, this little farmhouse-style kitchen does more than deliver: it is used and enjoyed every day."
+    }
+  ],
+  "office": [
+    {
+      "code": "o0",
+      "description": "a colorfully contemporary home workspace. for many today, commuting to work means walking over to the part of your home designated for that purpose. see how this small-space apartment doubles as a workspace, yet makes uncompromising room for function, focus and flair."
+    },
+    {
+      "code": "o1",
+      "description": "a statement home workspace, tailored to you. with lots of ideas for seating, storage and other work essentials, this home workspace can help you create a seamless work area where you can work efficiently and flexibly , and leave the drama for your decor!"
+    },
+    {
+      "code": "o2",
+      "description": "a harmonious home workspace. it is possible for you and your teens to be working on different things while you're all in the same room , it just takes a bit of planning. this room is packed with ideas to help everyone find the space to work and relax with style , and good humor!"
+    },
+    {
+      "code": "o3",
+      "description": "a room for offline calm and online adventures. this room is designed for relaxing and to help you stand out from the crowd when you're online. it has lots of ways to help keep livestreams fresh including a curtain that creates a private streaming space and acts as a screen to hide everything behind when you're ready to switch off."
+    },
+    {
+      "code": "o4",
+      "description": "a gaming room to give you the edge. when you've got your gaming gear just right, why not give it , and you , a space you both deserve. with a super-supportive chair, adjustable desk and lots of accessories, this room will keep you comfortably on top of your game."
+    },
+    {
+      "code": "o5",
+      "description": "welcome to the most creative spot at home. cut, chisel, saw and create to your heart's desire in this inspiring workspace at home. the industrial-style space features natural materials, practical storage and robust furniture. light, airy, and most importantly, organized , it lets you be productive and allows for inspiration to flow."
+    },
+    {
+      "code": "o6",
+      "description": "working from home in style. here's an inspiring spot to work from home that makes the most of a small space. with clever storage solutions, a comfortable chair and coordinated furniture, you can have a space that is both stylish and super organized."
+    },
+    {
+      "code": "o7",
+      "description": "a space where creativity blooms. welcome to a space to work filled with wonder , a bright and organized spot that is ready to take on creative projects. with clever storage, a flexible desk and a do-it-all wall, you can create a home office that lets your creativity flow."
+    },
+    {
+      "code": "o8",
+      "description": "a calm work and study area in your living room. a single mom and her child shares this living room-slash-work and study area in harmony. how, you ask? with flexible furniture that keeps to the same style and clever storage solutions that keep things tidy , all at prices that help you save more."
+    },
+    {
+      "code": "o9",
+      "description": "step up your study game. being a student often means having limited space, but it's possible to make room for both studies and rest thanks to smart and flexible solutions when it comes to storage, comfort and a good night's sleep."
+    },
+    {
+      "code": "o10",
+      "description": "work, study and hobbies in one tidy spot. limited space calls for clever organizing, especially when different activities share the same space. a hemnes desk offers the functionality to keep everything in check, and the style to keep you inspired. add a few items in the same series, and create a practical, good-looking and matching workplace anywhere in your home."
+    }
+  ],
+  "bathroom": [
+    {
+      "code": "r0",
+      "description": "the relaxed bathroom spa for a busy city environment. our compact bathroom is a mix of the traditional and modern, perfect in this small urban apartment for a relaxed, calm look with lots of natural ceramic, wood and bamboo colors. we're maximizing bathroom organization too! closed and open storage and movable stools with a place for stowing add space for a relaxed spa feeling."
+    },
+    {
+      "code": "r1",
+      "description": "a serene bathroom for smooth everydays. it is possible to create a spa-feel bathroom that can easily deal with the morning routine and transform into a calm space for evening me-time. here are some ideas to help make it happen."
+    },
+    {
+      "code": "r2",
+      "description": "a small bathroom that's big on storage. this bathroom may be small but it is packed with ideas that make the most of the space while maintaining a serene feel. lots of flexible storage like a cabinet, handy hooks and a cart make it ready to take care of all your beauty essentials."
+    },
+    {
+      "code": "r3",
+      "description": "a refreshing bathroom and laundry nook in one. a small bathroom with space for all your things and a laundry nook too? yes, it's definitely possible. take a look at some refreshing ideas to make the most of a small space where getting ready or doing the laundry puts a smile on your face."
+    },
+    {
+      "code": "r4",
+      "description": "an elegant bathroom to relax and unwind in. bring that plush hotel feeling to your own bathroom. with bathroom furniture in wood finishes, cabinets and drawers to keep your space uncluttered, and accessories to tie up the look, you can pamper yourself in the bathroom of your dreams."
+    },
+    {
+      "code": "r5",
+      "description": "closed stylish storage. store your things behind drawers and doors to make sure that your small bathroom feels tidy, coordinated and serene. godmorgon/r\u00e4ttviken wash-stand offers spacious close-at-hand storage right where you want it: by the bathroom mirror."
+    },
+    {
+      "code": "r6",
+      "description": "mesmerizing moments. step inside, take a deep breath and relax in a soothing bathroom where beautiful personalization meets thought-through storage solutions."
+    },
+    {
+      "code": "r7",
+      "description": "stylish serenity. close-at-hand storage contributes to smooth bathroom routines, and a personal expression contributes to enhanced well-being. here's how to create a well-planned bathroom that doesn't compromise with your style."
+    },
+    {
+      "code": "r8",
+      "description": "it's all about the storage. close-at-hand storage where you need it, show-off storage where you love it, and closed storage where you want it , all while keeping things organized and divided so that every family member has their own, dedicated bathroom space."
+    },
+    {
+      "code": "r9",
+      "description": "stylish, streamlined, and serene bathroom routines. a spacious sink, a bathroom cart, and many mirrors help achieve streamlined bathroom routines , especially if you are two who get ready at the same time."
+    },
+    {
+      "code": "r10",
+      "description": "a bright and bubbly bathroom. smart and flexible storage ideas, vivid and bubbly colors and dedicated space for both you and your partner , here's a bathroom that'll put a smile on your face!"
+    },
+    {
+      "code": "r11",
+      "description": "a bathroom that coordinates beautifully with your home. a classic and traditional look throughout your home , hemnes offers elegant, both open and closed, storage so you can enjoy a calm bathroom that's filled with a sense of well-being."
+    }
+  ],
+  "children": [
+    {
+      "code": "c0",
+      "description": "a playful and relaxed space , for parents, too. a room within a room that's perfect for a 4-year-old is the secret of this shared, modern-style bedroom. of course, it has everything that parents need, too, including privacy. carefully co-ordinated furnishings and color schemes create a space that suits everyone."
+    },
+    {
+      "code": "c1",
+      "description": "a sea-inspired space for dreams and creativity. the ocean and the wonderful creatures that live in it provide a lot of the inspiration for this modern-style room for a tween. it might be a tricky area with a sloping ceiling but there's still plenty of space for creativity, friendship and growing."
+    },
+    {
+      "code": "c2",
+      "description": "a teen hideout in the city. with its understated grey color palette that feels just a little bit more grown up, plus a cozy bed for chilling on, this room is a haven for this teen. it may be small, but it packs a big storage punch with lots of hooks, shelves and drawers for all his stuff."
+    },
+    {
+      "code": "c3",
+      "description": "a bedroom that's a feast for the imagination. where would your child like to go today? from magic games to retreats with soft toy friends, this cozy, traditional-style bedroom is ready to take your child on make-believe adventures."
+    },
+    {
+      "code": "c4",
+      "description": "room for two , play included. sharing a room doesn't need to mean less room for play or personal space. with bunk beds, smart storage and clever multi-purpose furniture this room can give your little athletes a place to practice together as well as their own space."
+    },
+    {
+      "code": "c5",
+      "description": "a children's room for imaginative dreamers. fall in love with this thoughtful children's bedroom, featuring design solutions that help them read, study, draw, craft, play and dream. a fun and comfortable space where their imagination can grow."
+    },
+    {
+      "code": "c6",
+      "description": "a playful children's bedroom with plenty of clever storage. this children's bedroom is filled with fun and clever furniture that encourages creativity and play. like a bed that is always ready for spontaneous sleepovers, storage that makes cleaning up fun or a bedside table that sidelines as many other things. making up a place to play, tell stories, tumble around and build dream worlds."
+    },
+    {
+      "code": "c7",
+      "description": "a space for fairy tales and relaxation. playfulness, sturdiness and room for relaxing me-time , all wrapped up in a traditional style. here's a high-quality children's room that never gets old."
+    },
+    {
+      "code": "c8",
+      "description": "a shared and loving space. one lives here full time and one lives here every other week, but it is important that the siblings have the same comfort and personal space. sl\u00e4kt bed frame with underbed and storage is comfy and practical, and it's perfect for sleepovers too."
+    }
+  ],
+  "dining": [
+    {
+      "code": "d0",
+      "description": "a rustic do-it-all dining and living room with plenty of charm. life is rosy in this open-plan space that functions as a flexible dining/kitchen/living area. traditional and modern furniture are combined to create a rustic and eclectic look. black and wooden furniture is balanced with soft pink and beige colors. the result: a room where the atmosphere is relaxed, easy-going and charming."
+    },
+    {
+      "code": "d1",
+      "description": "a warm and inviting dining room with a bohemian style. strong shapes, rich tones and natural materials like solid wood and lush greenery come together in this bohemian style dining and living area. a mix of traditional and modern furniture, minimalistic artwork and sleek, contemporary lamps creates an eclectic yet cozy atmosphere in the room."
+    },
+    {
+      "code": "d2",
+      "description": "a welcoming dining room with hand-picked pieces. with a backdrop of high cabinets framing a decorative fireplace, this combined dining area and living room blends a traditional style with modern touches, spiced up by details in natural materials. carefully selected pieces come together to create an inviting, calm mood."
+    },
+    {
+      "code": "d3",
+      "description": "a harmonious space for working and dining. here's a versatile room that brings the family together in style , all day if needed. combining bold storage and beautiful furniture with smart work essentials, there's space here for everyone to work, relax and eat in harmony."
+    },
+    {
+      "code": "d4",
+      "description": "a dining room that's ready for everything. hosting a feast for friends, getting on with work, catching up with a creative project , your dining area can be ready for it all. start with an extendable table, comfortable chairs and handy storage to create a space that will help you seamlessly switch between all your activities."
+    },
+    {
+      "code": "d5",
+      "description": "the go-to-place for large gatherings. do you love to host large and festive get-togethers? if yes: here's a dining room for you! comfy seats, lots of storage for board games and an extendable table, to name a few, help create the perfect gathering place for family and friends."
+    },
+    {
+      "code": "d6",
+      "description": "natural elements and sustainability in mind. bring in the beauty of nature into your dining room. we have many functional furniture pieces, accessories and textiles , with a high sustainability focus , that create a vivid and warm atmosphere."
+    },
+    {
+      "code": "d7",
+      "description": "bring personality to the dining room. create a home that's just as unique as you! experiment and mix different colors, patterns and styles to create a warm and cozy place where your dinner guests feel more than welcome."
+    },
+    {
+      "code": "d8",
+      "description": "a dining room delight. indulge in colors and flexible furniture, like an extendable table, to create a welcoming space that's perfect for both family dinners and large, festive gatherings."
+    },
+    {
+      "code": "d9",
+      "description": "a dining room where traditional looks meet modern comfort. make the most out of your dining room, whether you're going to have many seated at the table or you're enjoying the room on your own. nordviken table is extendable, and nordviken chairs are comfortable to sit on for hours."
+    },
+    {
+      "code": "d10",
+      "description": "a bright dining room where big dreams are shared. the dining table is the natural gathering place for a family: it's where you talk, eat, and share your goals and dreams. and by choosing a strong and stable table, like nordviken, you'll know that this place will last for many years."
+    },
+    {
+      "code": "d11",
+      "description": "details that define. do you dream of a luxurious dining room? you can have one, even if your home is small. color and material coordination, stylish details and flexible furniture, like an extendable table, will make your dream a reality."
+    },
+    {
+      "code": "d12",
+      "description": "making it easy to meet over a meal. eating together is an ideal way to share time on a daily basis. catch up with the family, exchange stories from your day. a good place to start is a spot that puts everyone at ease, and has comfortable seats for long sessions at the table."
+    }
+  ],
+  "outdoor": [
+    {
+      "code": "u0",
+      "description": "an easy garden for happy times. when chill-out time with friends and family is precious, this easy-care furniture doesn't need a lot of maintenance to stay looking in tip-top condition. giving you more time to get lost in the moment."
+    },
+    {
+      "code": "u1",
+      "description": "a small balcony where big dreams happen. don't let a small outdoor space limit what you can do on your balcony. with clever storage and smart furniture all your big ideas can be brought to life , whatever your budget."
+    },
+    {
+      "code": "u2",
+      "description": "a terrace for gathering and growing. this terrace shows you can still have big ideas for your outdoor space even if it's on the smaller side. smart planning combined with carefully chosen furniture and accessories can go a long way towards realizing your outdoor space ambitions , whatever your budget."
+    },
+    {
+      "code": "u3",
+      "description": "a calm oasis in the middle of the city. do you live in the city and long for nature? with these simple, space-saving and planet-loving tips, you can bring the lush island life to your own balcony, surround yourself with greenery and watch yourself bloom."
+    },
+    {
+      "code": "u4",
+      "description": "how to make your balcony bloom. welcome to the lush green countryside , right on your balcony. perfect for plant-loving sun-seekers, this balcony in the middle of the city lets you live la dolce vita without having to leave your home."
+    },
+    {
+      "code": "u5",
+      "description": "a summery space to unwind. what makes you relax is individual. but you should explore the bondholmen tables, chairs and armchairs if you know that comfortable, high-quality outdoor furniture and detailed design enhance your well-being."
+    }
+  ],
+  "hallway": [
+    {
+      "code": "h0",
+      "description": "a small family hallway with a big welcome. this welcoming traditional style hallway is small, but it always feels like there's enough space even when the whole family is using it. there's tidy storage for outdoor things, furniture that's simple, calm and with interesting details, plus lots of inspiration from nature."
+    },
+    {
+      "code": "h1",
+      "description": "hidden hallway meets modern living room. here's a hallway that's so short you might miss it. it takes you from the front door to the comfy sofa in the living room area in a few steps. the look is mostly modern but with traditional-style panel door wardrobes. they help unite the two zones and add a lot of tidy storage."
+    },
+    {
+      "code": "h2",
+      "description": "more than a main entrance. if you need extra room for a work or hobby space, why not try the hallway? make the space calm and welcoming with clever storage and focused lighting, then add a foldable desk to create a nook where you can let your ideas flow."
+    },
+    {
+      "code": "h3",
+      "description": "a small hallway with plenty of style and storage. don't let a small space stop you from having a hallway you'd love coming home to. take tips from this traditional-style hallway brimming with clever storage solutions, charming details and a very simple hack to never lose your keys again."
+    },
+    {
+      "code": "h4",
+      "description": "a small hallway with plenty of clever storage ideas. this small hallway packs a punch when it comes to organizing. featuring clever shoe storage solutions that can fit in narrow spaces, adjustable rails for odd nooks, and walls that keep things tidy as well as inspire. all at prices that help you save more."
+    },
+    {
+      "code": "h5",
+      "description": "make the most of every nook. a small space, with tricky corners and lots of things that need to be stored can sound like a challenge. but with some smart storage ideas and a mood-enhancing color scheme, your hallway might become your new favorite room."
+    }
+  ]
+}
