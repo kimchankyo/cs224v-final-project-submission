@@ -1,5 +1,6 @@
 # iDesign: A Room Furnishing Virtual Assistant
 ### Fall 2022 CS 224V Project by Chris Kim (chankyo) and Mia Miao (yanmiao)
+A copy of this repository can be found at [this link](https://github.com/kimchankyo/cs224v-final-project-submission). Please request for permission to Chris Kim if you cannot see the repository. Please note that the repository is missing the TARS model .pt file due to the high file size (>100 MB) and will be added in a zipped archive shared through a Google Drive Link (https://drive.google.com/file/d/1nUUj50uZWpjKECB6ihBghn77hvSKOmA5/view?usp=sharing)
 
 In this repository/zipped archive of our project submission, we have included executable code files for replicating results found in our final report. Unfortunately, due to inability to connect to our Google Cloud VM instance that houses our Genie model, we will be unable to include the Genie skill portion of the code in this archive. 
 
